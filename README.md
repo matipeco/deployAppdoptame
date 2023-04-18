@@ -18,7 +18,7 @@
 
 <p align="center">
   <a><img width="250px" src=https://i.postimg.cc/nLycxGLK/Screenshot-2023-04-13-at-17-00-15-React-App.png/></a>
-  <a><img width="250px" src=https://i.postimg.cc/Gp8h65bh/Screenshot-2023-04-13-at-17-00-29-React-App.png/></a>
+  <a><img width="250px" src=https://i.postimg.cc/NGkbMQb5/Screenshot-2023-04-13-at-17-00-29-React-App.png></a>
 </p>
 
 <p align="center">
