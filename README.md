@@ -17,12 +17,12 @@
 </ul>
 
 <p align="center">
-  <a><img width="250px" src=https://i.postimg.cc/nLycxGLK/Screenshot-2023-04-13-at-17-00-15-React-App.png/></a>
-  <a><img width="250px" src=https://i.postimg.cc/NGkbMQb5/Screenshot-2023-04-13-at-17-00-29-React-App.png/></a>
+  <a><img width="250px" src="https://i.imgur.com/atWGH17.png"></a>
+  <a><img width="250px" src="https://i.imgur.com/13e0C8I.png"/></a>
 </p>
 
 <p align="center">
-  <a><img width="250px" src=https://i.postimg.cc/L694mXmW/Screenshot-2023-04-13-at-17-14-12-React-App.png /></a>
+  <a><img width="250px" src="https://i.imgur.com/Is69qJD.png"/></a>
   <a><img width="250px" src=https://i.postimg.cc/vTdBrtF8/Screenshot-2023-04-13-at-17-01-37-React-App.png /></a>
 </p>
 
